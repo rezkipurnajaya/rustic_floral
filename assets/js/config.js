@@ -25,7 +25,7 @@ const WEDDING_CONFIG = {
         label: "The Wedding Of",
         sapaan: "Kepada Yth.",
         tamuDefault: "Bapak/Ibu/Saudara/i",
-        tanggal: "MINGGU, 21 FEBRUARI 2027",
+        tanggal: "MINGGU, 21 November 2027",
         tombolBuka: "Buka Undangan"
     },
 
@@ -35,7 +35,7 @@ const WEDDING_CONFIG = {
         pesan: "Dengan penuh kebahagiaan, kami mengundang Anda untuk menjadi bagian dari hari istimewa kami.",
         hari: "MINGGU",
         tanggal: "21",
-        bulan: "FEBRUARI",
+        bulan: "NOVEMBER",
         tahun: "2027"
     },
 
@@ -44,20 +44,20 @@ const WEDDING_CONFIG = {
         pria: {
             label: "The Groom",
             namaPanggilan: "Andi",
-            namaLengkap: "Andi Prasetyo, S.T.",
+            namaLengkap: "Rezki Prasatyoo, S.T.",
             silsilah: "Putra dari",
             orangTua: "Bapak H. Ahmad & Ibu Hj. Fatimah",
             foto: "assets/images/man.jpg",
-            fotoAlt: "Andi Prasetyo, S.T."
+            fotoAlt: "Rezki Prasatyo, S.T."
         },
         wanita: {
             label: "The Bride",
             namaPanggilan: "Sari",
-            namaLengkap: "Sari Wulandari, S.Pd.",
+            namaLengkap: "Sartika Ningsih, S.Pd.",
             silsilah: "Putri dari",
             orangTua: "Bapak H. Budi & Ibu Hj. Rahayu",
             foto: "assets/images/woman.jpg",
-            fotoAlt: "Sari Wulandari, S.Pd."
+            fotoAlt: "Sartika Ningsih, S.Pd."
         }
     },
 
