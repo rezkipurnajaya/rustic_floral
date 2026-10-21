@@ -43,7 +43,7 @@ const WEDDING_CONFIG = {
     mempelai: {
         pria: {
             label: "The Groom",
-            namaPanggilan: "Andi",
+            namaPanggilan: "Rezki",
             namaLengkap: "Rezki Prasatyoo, S.T.",
             silsilah: "Putra dari",
             orangTua: "Bapak H. Ahmad & Ibu Hj. Fatimah",
@@ -52,7 +52,7 @@ const WEDDING_CONFIG = {
         },
         wanita: {
             label: "The Bride",
-            namaPanggilan: "Sari",
+            namaPanggilan: "Sartika",
             namaLengkap: "Sartika Ningsih, S.Pd.",
             silsilah: "Putri dari",
             orangTua: "Bapak H. Budi & Ibu Hj. Rahayu",
