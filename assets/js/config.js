@@ -7,12 +7,12 @@
 const WEDDING_CONFIG = {
     // Metadata Dokumen & Identitas Singkat
     meta: {
-        title: "Undangan Pernikahan — Andi & Sari",
-        description: "Undangan Pernikahan Andi Prasetyo & Sari Wulandari",
-        inisialPria: "A",
+        title: "Undangan Pernikahan — Rezki & Sartika",
+        description: "Undangan Pernikahan Rezki Prasatyo & Sartika Ningsih",
+        inisialPria: "R",
         inisialWanita: "S",
-        namaPasangan: "Andi & Sari",
-        tanggalSingkat: "21 Februari 2027"
+        namaPasangan: "Rezki & Sartika",
+        tanggalSingkat: "21 November 2027"
     },
 
     // Konfigurasi Musik Latar
