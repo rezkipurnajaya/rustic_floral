@@ -44,8 +44,8 @@ const WEDDING_CONFIG = {
     mempelai: {
         pria: {
             label: "The Groom",
-            namaPanggilan: "Andi",
-            namaLengkap: "Andi Prasetyo, S.T.",
+            namaPanggilan: "Rezki",
+            namaLengkap: "Akhmad Rezki Purnajaya",
             silsilah: "Putra dari",
             orangTua: "Bapak H. Ahmad & Ibu Hj. Fatimah",
             foto: "assets/images/man.jpg",
@@ -53,8 +53,8 @@ const WEDDING_CONFIG = {
         },
         wanita: {
             label: "The Bride",
-            namaPanggilan: "Sari",
-            namaLengkap: "Sari Wulandari, S.Pd.",
+            namaPanggilan: "Sartika",
+            namaLengkap: "Sartika Dewi Aritonang",
             silsilah: "Putri dari",
             orangTua: "Bapak H. Budi & Ibu Hj. Rahayu",
             foto: "assets/images/woman.jpg",
