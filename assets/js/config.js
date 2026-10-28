@@ -12,11 +12,11 @@ const WEDDING_CONFIG = {
     },
 
     meta: {
-        title: "Undangan Pernikahan — Andi & Sari",
-        description: "Undangan Pernikahan Andi Prasetyo & Sari Wulandari",
-        inisialPria: "A",
+        title: "Undangan Pernikahan — Rezki & Sartika",
+        description: "Undangan Pernikahan Rezki Purnajaya & Sartika Dewi",
+        inisialPria: "R",
         inisialWanita: "S",
-        namaPasangan: "Andi & Sari",
+        namaPasangan: "Rezki & Sartika",
         tanggalSingkat: "21 Februari 2027"
     },
 
